@@ -1,3 +1,5 @@
-# hello-world
-just another repository
-edit1
+#include <stdio.h>
+int main(void)
+{
+    printf("Hello,world\n");
+}
